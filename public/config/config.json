@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x7c1494cF711631d0F7a1FF419030B1b80E7e0bD8",
+  "SCAN_LINK": "https://etherscan.io/token/0xdecd6A3d801C6BE40D1ef51370e6B9041223d093",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Autistic Adventures Bee Collab NFT",
+  "SYMBOL": "Autistic Adventurer",
+  "MAX_SUPPLY": 10023,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "WL_WEI_COST": 20000000000000000,
+  "WL_DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 95000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/autistic-adventures",
+  "SHOW_BACKGROUND": true 
+}
